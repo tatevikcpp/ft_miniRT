@@ -1,1 +1,1 @@
-![Image Description](images/spheres.jpeg)
+![Spheres](./images/spheres.jpeg)
