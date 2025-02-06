@@ -1,1 +1,1 @@
-![Spheres](https://raw.githubusercontent.com/username/repository/main/images/spheres.jpeg)
+![Cylinders](https://raw.githubusercontent.com/tatevikcpp/ft_miniRT/main/cylinders.jpeg)
